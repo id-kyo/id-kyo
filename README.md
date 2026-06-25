@@ -64,23 +64,28 @@
 
 <h2 align="center">📜 Certificações</h2>
 
-<div align="center">
-  <a href="https://www.credly.com/users/nascimentocsv" title="AWS Certified Cloud Practitioner">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110">
-  </a>
-  <a href="https://www.credly.com/users/nascimentocsv" title="AWS Certified Solutions Architect - Associate">
-    <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110">
-  </a>
-  <a href="https://www.credly.com/users/nascimentocsv" title="KCNA: Kubernetes and Cloud Native Associate">
-    <img src="https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="110">
-  </a>
-</div>
-
-<br>
-
-- **AWS Certified Cloud Practitioner**: fundamentos da nuvem AWS, principais serviços, modelo de custos, segurança e o modelo de responsabilidade compartilhada.
-- **AWS Certified Solutions Architect - Associate**: projeto de arquiteturas na AWS seguras, resilientes, escaláveis e com bom custo-benefício.
-- **KCNA (Kubernetes and Cloud Native Associate)**: certificação da CNCF sobre os fundamentos de Kubernetes e do ecossistema cloud native, como orquestração de contêineres, arquitetura e observabilidade.
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <a href="https://www.credly.com/users/nascimentocsv">
+        <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"><br>
+        <sub><b>AWS Cloud Practitioner</b></sub>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://www.credly.com/users/nascimentocsv">
+        <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"><br>
+        <sub><b>AWS Solutions Architect Associate</b></sub>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://www.credly.com/users/nascimentocsv">
+        <img src="https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="100"><br>
+        <sub><b>KCNA</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
