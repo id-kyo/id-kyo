@@ -4,20 +4,14 @@
   ☁️ Cloud • Kubernetes • Infraestrutura como Código • GitOps • CI/CD
 </p>
 
----
-
 <h2 align="center">🚀 No que eu trabalho</h2>
 
 <p align="center">
-  <samp>
-    Construo e automatizo infraestrutura em nuvem. No dia a dia provisiono ambientes na
-    AWS, Azure e GCP, orquestro contêineres com Kubernetes (EKS e bare-metal), versiono
-    tudo como código com Terraform e Pulumi e faço deploy através de pipelines CI/CD com
-    fluxos GitOps. Também atuo com observabilidade, segurança e FinOps.
-  </samp>
+  Construo e automatizo infraestrutura em nuvem. No dia a dia provisiono ambientes na
+  AWS, Azure e GCP, orquestro contêineres com Kubernetes (EKS e bare-metal), versiono
+  tudo como código com Terraform e Pulumi e faço deploy com pipelines CI/CD e fluxos
+  GitOps. Também atuo com observabilidade, segurança e FinOps.
 </p>
-
----
 
 <h2 align="center">🛠️ Tecnologias</h2>
 
@@ -60,8 +54,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
 <h2 align="center">📜 Certificações</h2>
 
 <table align="center">
@@ -87,16 +79,12 @@
   </tr>
 </table>
 
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=id-kyo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=id-kyo&layout=compact&theme=tokyonight" />
 </p>
-
----
 
 <h2 align="center">📫 Contato</h2>
 
