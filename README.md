@@ -4,6 +4,13 @@
   Cloud • Kubernetes • Infraestrutura como Código • GitOps • CI/CD
 </p>
 
+<p align="center">
+  Profissional de Cloud e DevOps, apaixonado por automação e por construir
+  infraestrutura confiável. Trabalho com ambientes em nuvem, orquestração de
+  contêineres e entrega contínua, sempre buscando soluções escaláveis, seguras
+  e com bom custo. Em constante aprendizado e cursando Ciência da Computação.
+</p>
+
 <h2 align="center">Tecnologias</h2>
 
 **Cloud**
